@@ -5,7 +5,7 @@
   "main": "./sources/index.ts",
   "dependencies": {
     "enquirer": "^2.3.6",
-    "semver": "^7.1.2",
+    "semver": "^7.5.2",
     "ssri": "^6.0.1",
     "tslib": "^1.13.0"
   },
